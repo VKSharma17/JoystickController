@@ -1,0 +1,10 @@
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\bin\Debug\DroneControl.exe.config
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\bin\Debug\DroneControl.exe
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\bin\Debug\DroneControl.pdb
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.csproj.AssemblyReference.cache
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.Form1.resources
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.Properties.Resources.resources
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.csproj.GenerateResource.cache
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.csproj.CoreCompileInputs.cache
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.exe
+C:\Users\vinay\Vinay_Work\JoyStickController\DroneControllerWinForms\DroneControl\DroneControl\obj\Debug\DroneControl.pdb
